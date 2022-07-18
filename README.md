@@ -2,7 +2,7 @@
  
 Imersão Java Alura - 18 a 22/07/2022.
 
-Referência:
+Referências:
 
 - https://www.alura.com.br/imersao-java/aulas/aula01-consumindo-api-com-java (Imersão Alura | Aula 01)
 
